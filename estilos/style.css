@@ -12,11 +12,16 @@
  main{
 
    background-color: white; 
-   width: 500px;
+   width: 570px;
    margin: auto;
    padding: 10px;
    box-shadow: 3px 3px black;
  } 
+
+
+ .lado{
+     float: right;
+ }
  h1{
      color: rgb(236, 74, 74);
  }
